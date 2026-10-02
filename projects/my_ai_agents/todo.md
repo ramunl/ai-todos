@@ -1,6 +1,6 @@
 # my_ai_agents — TODO
 
-- [ ] /todo_add I need to have a stable working branch. And want to be able to make a step back. For example use have an option in my ops agent: drop my coding to a stable commit <!-- pm-task:{"id":"020c56181a8c580aa7e30b2fb47acc26","status":"open","priority":"high"} -->
+- [ ] need to have a stable working branch. And want to be able to make a step back. For example use have an option in my ops agent: drop my coding to a stable commit <!-- pm-task:{"id":"020c56181a8c580aa7e30b2fb47acc26","status":"open","priority":"high"} -->
 - [ ] improve all ai agents ui. <!-- pm-task:{"id":"ac94eb1e6eef5bd9950370f51f83e603","status":"open","priority":"high"} -->
 - [ ] need to clarify which AI model is used for. role - planning, implementing <!-- pm-task:{"id":"42c436e75c04514591ab2d095002ee8c","status":"open","priority":"normal"} -->
 - [ ] backup they system, it should be scheduled and done automaically <!-- pm-task:{"id":"1e854959629f55e4b2c6d75d258d8cc7","status":"open","priority":"normal"} -->
