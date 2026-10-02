@@ -9,3 +9,4 @@
 - [ ] dashboard: RU connection freeze, option 3 (client only): run Telegram Desktop through the Amnezia VPN <!-- pm-task:{"id":"ff8e11fa82585099b085644468c7e3a9","status":"open","priority":"normal"} -->
 - [ ] want to see open projects PRs <!-- pm-task:{"id":"860c0b0fabda50d2ad69156fbe9c8a91","status":"open","priority":"normal"} -->
 - [ ] need to implement token consumption stats <!-- pm-task:{"id":"ab4f2b176ca05b86a97d283a282cfdd3","status":"open","priority":"normal"} -->
+- [ ] my future self started ai-service, should check my todo items, inspect them and provide either a implementing plan or ask the questions to clarify the task <!-- pm-task:{"id":"6346e8005b3c4c84bbf26f47a57e66be","status":"open","priority":"normal"} -->
