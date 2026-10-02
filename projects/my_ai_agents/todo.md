@@ -8,3 +8,4 @@
 - [ ] dashboard: RU connection freeze, option 2 (robust): put the dashboard behind a CDN (e.g. Cloudflare); needs a real domain instead of sslip.io
 - [ ] dashboard: RU connection freeze, option 3 (client only): run Telegram Desktop through the Amnezia VPN
 - [ ] want to see open projects PRs
+- [ ] need to implement token consumption stats
