@@ -18,3 +18,4 @@
 - [ ] Refactor oversized dashboard files: split server.py (about 477 lines) and navigation.test.js (over 1,300 lines) by responsibility to follow the repository file-size rules. <!-- pm-task:{"id":"3dc6c86310e7461e991d8a2b5623d9ce","status":"open","priority":"normal"} -->
 - [ ] improve coding logs view, currently it jumps to the window top everytime it updates the data, not possible to watch the logs <!-- pm-task:{"id":"01827858a3df4764ad0a1ffd6f634796","status":"open","priority":"high"} -->
 - [ ] coding agent: add image/screenshot upload ability <!-- pm-task:{"id":"f4c3a33cd713404b983b0c26dd52ba2f","status":"open","priority":"normal"} -->
+- [ ] TODO list: make the list items dragging. so as use I should be able to move the list item to the screen down/top <!-- pm-task:{"id":"e88640a71f2044caa07e6ff0c0718960","status":"open","priority":"normal"} -->
