@@ -8,7 +8,7 @@
 - [ ] dashboard: RU connection freeze, option 2 (robust): put the dashboard behind a CDN (e.g. Cloudflare); needs a real domain instead of sslip.io <!-- pm-task:{"id":"d558aca0e370537bbeb1e79be3e3964e","status":"open","priority":"normal"} -->
 - [ ] dashboard: RU connection freeze, option 3 (client only): run Telegram Desktop through the Amnezia VPN <!-- pm-task:{"id":"ff8e11fa82585099b085644468c7e3a9","status":"open","priority":"normal"} -->
 - [ ] want to see open projects PRs <!-- pm-task:{"id":"860c0b0fabda50d2ad69156fbe9c8a91","status":"open","priority":"normal"} -->
-- [ ] need to implement token consumption stats <!-- pm-task:{"id":"ab4f2b176ca05b86a97d283a282cfdd3","status":"open","priority":"normal"} -->
+- [x] need to implement token consumption stats <!-- pm-task:{"id":"ab4f2b176ca05b86a97d283a282cfdd3","status":"done","priority":"normal"} -->
 - [x] my future self started ai-service, should check my todo items, inspect them and provide either a implementing plan or ask the questions to clarify the task <!-- pm-task:{"id":"6346e8005b3c4c84bbf26f47a57e66be","status":"done","priority":"high"} -->
 - [ ] Alerts that come to you: have the Ops bot proactively notify me when a service fails, disk usage crosses a threshold, or a reboot is required, instead of requiring me to open the dashboard. <!-- pm-task:{"id":"eaef487d2f2147a4ac354baf782b509c","status":"open","priority":"normal"} -->
 - [ ] Backups: implement automatic nightly off-server backups of env files with tokens, agent state in /var/lib/ai-*, and the Caddy configuration. Protect against losing the single VPS. <!-- pm-task:{"id":"050567438a7b47b4a6819b08aa284c83","status":"open","priority":"normal"} -->
