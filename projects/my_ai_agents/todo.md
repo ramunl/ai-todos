@@ -23,3 +23,4 @@
 - [ ] Bug button doesn't work if an image added <!-- pm-task:{"id":"1ddee2dd2cfb47508e000e85f1694ad4","status":"open","priority":"normal","created":"2026-10-26"} -->
 - [ ] Ops agent: As a user I want to be able to control my services running. for exampl Iptv stream serveice - there are should be buttons to start/shutdown it . If the service been shutdown it's port should be cloused otherwise - open <!-- pm-task:{"id":"b5c67d86830e4fd48102aa86cd853dc0","status":"open","priority":"normal","created":"2026-10-26"} -->
 - [ ] Improve backup info: as a user I should see what data, keys are backing up <!-- pm-task:{"id":"4f8a30a909524f6cb736ff998dd7629c","status":"open","priority":"normal","created":"2026-10-26"} -->
+- [ ] My autonomous worker should review my repos and give also some new features to do advice or suggestions <!-- pm-task:{"id":"32ac0fd73af74290a8ce2987526bfb64","status":"open","priority":"normal","created":"2026-10-26"} -->
