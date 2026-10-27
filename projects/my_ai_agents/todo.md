@@ -26,4 +26,4 @@
 - [ ] My autonomous worker should review my repos and give also some new features to do advice or suggestions <!-- pm-task:{"id":"32ac0fd73af74290a8ce2987526bfb64","status":"open","priority":"normal","created":"2026-10-26"} -->
 - [ ] If a bug hasn't been fixed as a user I should be able to reopen the closed task <!-- pm-task:{"id":"c763be1f10ce40f4a994b31cd9e12989","status":"open","priority":"high","created":"2026-10-26"} -->
 - [ ] ai tools: login status - how many days left to relogin, show warnings <!-- pm-task:{"id":"c236a4a88e6c44b185eb0f7dc0531ef4","status":"open","priority":"high","created":"2026-10-26"} -->
-- [ ] the PR hasnt been open really, and the task running was stopped. so the task status is incorrect <!-- pm-task:{"id":"20515e4fa0a5437194fa5207563cbbb5","status":"open","priority":"normal","created":"2026-10-27"} -->
+- [ ] the PR hasnt been open really, and the task running was stopped. so the task status is incorrect <!-- pm-task:{"id":"20515e4fa0a5437194fa5207563cbbb5","status":"open","priority":"high","created":"2026-10-27"} -->
