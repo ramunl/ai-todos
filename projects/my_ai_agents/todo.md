@@ -25,7 +25,7 @@
 - [x] Improve backup info: as a user I should see what data, keys are backing up <!-- pm-task:{"id":"4f8a30a909524f6cb736ff998dd7629c","status":"done","priority":"high","created":"2026-10-26"} -->
 - [ ] My autonomous worker should review my repos and give also some new features to do advice or suggestions <!-- pm-task:{"id":"32ac0fd73af74290a8ce2987526bfb64","status":"open","priority":"normal","created":"2026-10-26"} -->
 - [ ] If a bug hasn't been fixed as a user I should be able to reopen the closed task <!-- pm-task:{"id":"c763be1f10ce40f4a994b31cd9e12989","status":"open","priority":"high","created":"2026-10-26"} -->
-- [ ] ai tools: login status - how many days left to relogin, show warnings <!-- pm-task:{"id":"c236a4a88e6c44b185eb0f7dc0531ef4","status":"open","priority":"high","created":"2026-10-26"} -->
+- [x] ai tools: login status - how many days left to relogin, show warnings <!-- pm-task:{"id":"c236a4a88e6c44b185eb0f7dc0531ef4","status":"done","priority":"high","created":"2026-10-26"} -->
 - [ ] the PR hasnt been open really, and the task running was stopped. so the task status is incorrect <!-- pm-task:{"id":"20515e4fa0a5437194fa5207563cbbb5","status":"open","priority":"high","created":"2026-10-27"} -->
 - [ ] As a user I wanna see TODO item priority as a color marker (low - green, medium 0 - yellow, high - red) it should be a dot icon may be or something like this <!-- pm-task:{"id":"99e92eeb7df448249747182980676dcb","status":"open","priority":"normal","created":"2026-10-27"} -->
 - [ ] besides the Priority ToDo item should have a type:  1) feature 2) bug 3) Notice <!-- pm-task:{"id":"80ce65811dd242adb78de230e11388df","status":"open","priority":"normal","created":"2026-10-27"} -->
