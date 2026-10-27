@@ -29,3 +29,4 @@
 - [ ] the PR hasnt been open really, and the task running was stopped. so the task status is incorrect <!-- pm-task:{"id":"20515e4fa0a5437194fa5207563cbbb5","status":"open","priority":"high","created":"2026-10-27"} -->
 - [ ] As a user I wanna see TODO item priority as a color marker (low - green, medium 0 - yellow, high - red) it should be a dot icon may be or something like this <!-- pm-task:{"id":"99e92eeb7df448249747182980676dcb","status":"open","priority":"normal","created":"2026-10-27"} -->
 - [ ] besides the Priority ToDo item should have a type:  1) feature 2) bug 3) Notice <!-- pm-task:{"id":"80ce65811dd242adb78de230e11388df","status":"open","priority":"normal","created":"2026-10-27"} -->
+- [ ] add image option should be added in ToDo item creating process <!-- pm-task:{"id":"0d0d33a519c1411597b6342d4631d694","status":"open","priority":"normal","created":"2026-10-27"} -->
