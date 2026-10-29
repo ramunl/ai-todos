@@ -1,0 +1,3 @@
+# DeepSeek_integration — TODO
+
+- [x] [DS00] Record initial VPS and DeepSeek readiness (completed 2026-10-29). VPS: 1 CPU, 961 MiB RAM, about 500 MiB available, 1 GiB swap, 16 GiB free; all four services active, Coding idle with Codex selected. DeepSeek dedicated key configured securely; authenticated model-list/balance succeeded, USD 10 available; Pro text and Flash text/image listed. OpenCode is not installed; inference, cancellation and workload memory remain unverified. Evidence: local refactoring-plans/vps-provider-audit-2026-10-29.md. No production code changed. <!-- pm-task:{"id":"c00a70dd0e5850cfb3345bbb15ec3187","status":"done","priority":"normal","type":"feature","created":"2026-10-29"} -->
